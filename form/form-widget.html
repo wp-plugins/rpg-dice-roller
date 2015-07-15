@@ -1,0 +1,20 @@
+<form id="mh_rpg_dice_roller_widget" class="widget">
+	<p>Number of dice<br>
+		<input type="number" id="mh_rpg_number_of_dice_widget" name="mh_rpg_number_of_dice_widget" value="1">
+	</p>
+	
+	<p>Type of die:<br>
+		<select id="mh_rpg_die_type_widget" name="mh_rpg_die_type_widget">
+			<option value="4" selected>4</option>
+			<option value="6">6</option>
+			<option value="8">8</option>
+			<option value="10">10</option>
+			<option value="12">12</option>
+			<option value="20">20</option>
+			<option value="100">100</option>
+		</select>
+	</p>
+	
+	<input type="button" onclick="mh_rpg_roll_dice_widget()" value="Roll">
+	<p>Result: <span id="mh_rpg_dice_roll_widget"></span></p>
+</form>
