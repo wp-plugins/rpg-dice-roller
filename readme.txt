@@ -1,5 +1,5 @@
 === RPG Dice Roller ===
-Contributors: Marty Himmel
+Contributors: Threllous
 Donate link: http://www.martyhimmel.me
 Tags: rpg, dice, dungeons, dragons, pathfinder, star wars, table top
 Tested up to: 4.2
