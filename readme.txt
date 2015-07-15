@@ -1,4 +1,6 @@
 === RPG Dice Roller ===
+Contributors: Marty Himmel
+Donate link: http://www.martyhimmel.me
 Tags: rpg, dice, dungeons, dragons, pathfinder, star wars, table top
 Tested up to: 4.2
 License: GPL2
